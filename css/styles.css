@@ -4,7 +4,7 @@
 
 
 #cis-special-parent a {
-    color: bisque
+    color: bisque;
     
 }
 
@@ -13,9 +13,9 @@
     color:blue;
 }
 body {
-    background-color: lightblue
+    background-color: lightblue;
 }
 
 div ul li {
-    color:red 
+    color:red; 
 }
